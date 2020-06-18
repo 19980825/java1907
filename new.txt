@@ -3,4 +3,6 @@ ouzhoulongxia,diwanxie,baimifan
 github
 linux
 dev add something
+<<<<<<< HEAD
 master add other
+dev add other
